@@ -1,4 +1,4 @@
-Practice Project For Generating Password 
+Practice Project For Generating Password in Reactjs
 
 -Functions: \
  -- Allow special Character in password \
