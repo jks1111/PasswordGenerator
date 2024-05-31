@@ -1,7 +1,7 @@
 <img title="a title" alt="Alt text" src="Screenshot (457).png">
 
  
-Practice Project For to learn in-built hooks in Reactjs
+Practice Project to learn in-built hooks in Reactjs
 
 -Functions: \
  -- Allow special Character in password \
